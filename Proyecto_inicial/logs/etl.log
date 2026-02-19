@@ -1,0 +1,44 @@
+2026-02-12 08:04:30,793 - INFO - Iniciando extracción para 5 ciudades...
+2026-02-12 08:04:31,534 - ERROR - ❌ Error en API para Bogota: You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]
+2026-02-12 08:04:32,407 - ERROR - ❌ Error en API para Medellin: You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]
+2026-02-12 08:04:32,847 - ERROR - ❌ Error en API para Cali: You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]
+2026-02-12 08:04:36,876 - ERROR - ❌ Error en API para Barranquilla: You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]
+2026-02-12 08:04:37,324 - ERROR - ❌ Error en API para Cartagena: You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]
+2026-02-12 08:04:37,328 - INFO - 📁 Datos guardados en data/clima_raw.json
+2026-02-12 08:04:37,338 - INFO - 📁 Datos guardados en data/clima.csv
+2026-02-12 08:12:43,879 - INFO - Iniciando extracción para 5 ciudades...
+2026-02-12 08:12:44,776 - INFO - ✅ Datos extraídos para Bogota
+2026-02-12 08:12:45,256 - ERROR - ❌ Error extrayendo datos para Medellin: 429 Client Error: Too Many Requests for url: https://api.weatherstack.com/current?access_key=bee545b11a3f7a89f03c2d9b22ef7583&query=Medellin
+2026-02-12 08:12:45,930 - INFO - ✅ Datos extraídos para Cali
+2026-02-12 08:12:46,663 - INFO - ✅ Datos extraídos para Barranquilla
+2026-02-12 08:12:47,119 - ERROR - ❌ Error extrayendo datos para Cartagena: 429 Client Error: Too Many Requests for url: https://api.weatherstack.com/current?access_key=bee545b11a3f7a89f03c2d9b22ef7583&query=Cartagena
+2026-02-12 08:12:47,124 - INFO - 📁 Datos guardados en data/clima_raw.json
+2026-02-12 08:12:47,136 - INFO - 📁 Datos guardados en data/clima.csv
+2026-02-19 07:23:13,991 - INFO - Iniciando extracción para 5 ciudades...
+2026-02-19 07:23:14,813 - INFO - ✅ Datos extraídos para Bogota
+2026-02-19 07:23:15,215 - ERROR - ❌ Error extrayendo datos para Medellin: 429 Client Error: Too Many Requests for url: https://api.weatherstack.com/current?access_key=bee545b11a3f7a89f03c2d9b22ef7583&query=Medellin
+2026-02-19 07:23:15,619 - ERROR - ❌ Error extrayendo datos para Cali: 429 Client Error: Too Many Requests for url: https://api.weatherstack.com/current?access_key=bee545b11a3f7a89f03c2d9b22ef7583&query=Cali
+2026-02-19 07:23:16,082 - INFO - ✅ Datos extraídos para Barranquilla
+2026-02-19 07:23:16,488 - ERROR - ❌ Error extrayendo datos para Cartagena: 429 Client Error: Too Many Requests for url: https://api.weatherstack.com/current?access_key=bee545b11a3f7a89f03c2d9b22ef7583&query=Cartagena
+2026-02-19 07:32:29,242 - INFO - ⏳ Iniciando extracción para 5 ciudades...
+2026-02-19 07:32:29,243 - INFO - ➡️ (1/5) Consultando ciudad: Bogota
+2026-02-19 07:32:29,890 - INFO - ✅ Datos extraídos para Bogota
+2026-02-19 07:32:29,892 - INFO - ⏱ Esperando 3s antes de la siguiente ciudad...
+2026-02-19 07:32:32,893 - INFO - ➡️ (2/5) Consultando ciudad: Medellin
+2026-02-19 07:32:33,504 - INFO - ✅ Datos extraídos para Medellin
+2026-02-19 07:32:33,506 - INFO - ⏱ Esperando 3s antes de la siguiente ciudad...
+2026-02-19 07:32:36,507 - INFO - ➡️ (3/5) Consultando ciudad: Cali
+2026-02-19 07:32:36,915 - INFO - ✅ Datos extraídos para Cali
+2026-02-19 07:32:36,917 - INFO - ⏱ Esperando 3s antes de la siguiente ciudad...
+2026-02-19 07:32:39,918 - INFO - ➡️ (4/5) Consultando ciudad: Barranquilla
+2026-02-19 07:32:40,386 - INFO - ✅ Datos extraídos para Barranquilla
+2026-02-19 07:32:40,387 - INFO - ⏱ Esperando 3s antes de la siguiente ciudad...
+2026-02-19 07:32:45,827 - INFO - ➡️ (5/5) Consultando ciudad: Cartagena
+2026-02-19 07:32:47,101 - INFO - ✅ Datos extraídos para Cartagena
+2026-02-19 07:32:47,110 - INFO - ✅ Extracción finalizada. Ciudades procesadas exitosamente: 5/5.
+2026-02-19 07:34:06,000 - INFO - Iniciando extracción para 5 ciudades...
+2026-02-19 07:34:06,461 - INFO - ✅ Datos extraídos para Bogota
+2026-02-19 07:34:09,905 - INFO - ✅ Datos extraídos para Medellin
+2026-02-19 07:34:13,376 - INFO - ✅ Datos extraídos para Cali
+2026-02-19 07:34:16,809 - INFO - ✅ Datos extraídos para Barranquilla
+2026-02-19 07:34:20,240 - INFO - ✅ Datos extraídos para Cartagena
