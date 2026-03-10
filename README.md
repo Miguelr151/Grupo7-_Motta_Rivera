@@ -132,4 +132,4 @@ Esto iniciará una aplicación interactiva para el análisis y visualización de
 
 ## 📚 Licencia
 
-Este proyecto fue desarrollado con fines **académicos** para el curso de **Programación Avanzada**.
+Este proyecto fue desarrollado con fines **académicos** para el curso de **Mineria de datos** con el ingeniero **Julian Andres Quimbayo Castro**.
