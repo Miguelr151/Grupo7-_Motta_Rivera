@@ -1,0 +1,46 @@
+#!/usr/bin/env python3
+import sys
+import logging
+from dotenv import load_dotenv
+
+sys.path.insert(0, '.')
+
+from scripts.database import test_connection, engine
+
+# cargar variables .env
+load_dotenv()
+
+logging.basicConfig(level=logging.INFO)
+
+if __name__ == "__main__":
+
+    print("\n" + "=" * 50)
+    print("PRUEBA DE CONEXIÓN A POSTGRESQL")
+    print("=" * 50)
+
+    try:
+
+        if test_connection():
+
+            print("✅ Conexión exitosa a la base de datos\n")
+
+            print(f"Base de datos : {engine.url.database}")
+            print(f"Host          : {engine.url.host}")
+            print(f"Puerto        : {engine.url.port}")
+            print(f"Usuario       : {engine.url.username}")
+
+        else:
+
+            print("❌ No se pudo conectar a la base de datos\n")
+
+            print("Verifica:")
+            print("- PostgreSQL está corriendo")
+            print("- Variables en .env son correctas")
+            print("- Base de datos existe")
+
+    except Exception as e:
+
+        print("❌ Error inesperado:")
+        print(e)
+
+    print("=" * 50 + "\n")
