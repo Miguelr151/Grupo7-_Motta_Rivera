@@ -1,125 +1,135 @@
-# 🎮 Catálogo de Videojuegos - ETL con IGDB y PostgreSQL
+# 📊 Proyecto de Minería de Datos – Programación Avanzada
 
-Este proyecto implementa un **pipeline ETL (Extract, Transform, Load)**
-que extrae información de videojuegos desde la API de **IGDB**, procesa
-los datos y los almacena en una base de datos **PostgreSQL** para su
-posterior análisis.
+## 📌 Descripción del Repositorio
 
-El objetivo es construir un **catálogo de videojuegos** que permita
-analizar información como:
+Este repositorio contiene las actividades, talleres, laboratorios y el proyecto desarrollado durante el curso de **Programación Avanzada**, enfocado en la aplicación de técnicas de **minería y análisis de datos**.
 
--   videojuegos mejor calificados
--   juegos con mayor cantidad de votos
--   distribución de juegos por año de lanzamiento
+El objetivo principal es aplicar conceptos de programación para la exploración, procesamiento y visualización de datos, utilizando herramientas modernas del ecosistema de Python.
 
-------------------------------------------------------------------------
+---
 
-# 📊 Arquitectura del Proyecto
+## 👥 Integrantes del Grupo
 
-El proyecto sigue la arquitectura clásica de un **pipeline ETL**.
+| Nombre                         | Programa               |
+| ------------------------------ | ---------------------- |
+| Miguel Angel Rivera Lozano     | Ingeniería de Sistemas |
+| Dayana Stephany Motta Camayo   | Ingeniería de Sistemas |
 
-IGDB API\
-↓\
-Extractor ETL\
-↓\
-Transformación de Datos\
-↓\
-PostgreSQL Database\
-↓\
-Consultas Analíticas
+---
 
-------------------------------------------------------------------------
+## 🎯 Objetivos del Proyecto
 
-# 📁 Estructura del Proyecto
+* Aplicar conceptos avanzados de programación.
+* Implementar técnicas básicas de **análisis y minería de datos**.
+* Diseñar soluciones eficientes, modulares y escalables.
+* Aplicar buenas prácticas de ingeniería de software.
+* Utilizar **Git y GitHub** para control de versiones y trabajo colaborativo.
 
-catalogo_videojuegos │ ├── scripts │ ├── extractor_db.py │ ├──
-consultas.py │ ├── database.py │ └── models.py │ ├── alembic │ ├── logs
-│ ├── .env │ ├── README.md └── postgres_setup.md
+---
 
-------------------------------------------------------------------------
+## 🛠️ Tecnologías y Herramientas
 
-# 🛠 Tecnologías Utilizadas
+* **Lenguajes:** Python
+* **Librerías principales:** NumPy, Pandas, Scikit-Learn, Dash
+* **Base de datos:** PostgreSQL
+* **Control de versiones:** Git & GitHub
+* **Entorno de desarrollo:** VS Code / PyCharm
+* **Metodologías:** Programación modular y Programación Orientada a Objetos (POO)
 
--   Python 3
--   PostgreSQL
--   SQLAlchemy
--   Alembic
--   Pandas
--   IGDB API
--   Twitch OAuth
+---
 
-------------------------------------------------------------------------
+## 📂 Estructura del Repositorio
 
-# ⚙️ Instalación
+```
+📦 proyecto-mineria-datos
+ ┣ 📂 alembic
+ ┣ 📂 data
+ ┣ 📂 logs
+ ┣ 📂 scripts
+ ┣ 📂 venv
+ ┣ 📄 dashboard_app.py
+ ┣ 📄 dashboard_advanced.py
+ ┣ 📄 dashboard_interactive.py
+ ┣ 📄 alembic.ini
+ ┣ 📄 postgres_setup.md
+ ┣ 📄 requirements.txt
+ ┗ 📄 README.md
+```
 
-## 1. Clonar el repositorio
+**Descripción de carpetas principales:**
 
-git clone https://github.com/tu-usuario/catalogo_videojuegos.git\
-cd catalogo_videojuegos
+* `data/` → Conjuntos de datos utilizados en el análisis.
+* `scripts/` → Scripts auxiliares del proyecto.
+* `logs/` → Registros generados por la ejecución del sistema.
+* `alembic/` → Configuración de migraciones de base de datos.
+* `dashboard_*.py` → Aplicaciones de visualización y análisis interactivo de datos.
 
-------------------------------------------------------------------------
+---
 
-## 2. Crear entorno virtual
+## ⚙️ Instalación y Configuración
 
-python3 -m venv venv\
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/usuario/proyecto-mineria-datos.git
+```
+
+2. Entrar al directorio del proyecto:
+
+```bash
+cd proyecto-mineria-datos
+```
+
+3. Crear entorno virtual:
+
+```bash
+python -m venv venv
+```
+
+4. Activar entorno virtual:
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**Linux / Mac**
+
+```bash
 source venv/bin/activate
+```
 
-------------------------------------------------------------------------
+5. Instalar dependencias:
 
-## 3. Instalar dependencias
-
+```bash
 pip install -r requirements.txt
+```
 
-------------------------------------------------------------------------
+---
 
-# 🔑 Variables de entorno
+## ▶️ Ejecución del Proyecto
 
-Crear un archivo `.env` con:
+Para ejecutar el dashboard principal:
 
-TWITCH_CLIENT_ID=tu_client_id\
-TWITCH_CLIENT_SECRET=tu_client_secret\
-TWITCH_TOKEN_URL=https://id.twitch.tv/oauth2/token\
-IGDB_BASE_URL=https://api.igdb.com/v4
+```bash
+python dashboard_app.py
+```
 
-IGDB_LIMIT=50
+Esto iniciará una aplicación interactiva para el análisis y visualización de datos.
 
-DB_HOST=localhost\
-DB_PORT=5432\
-DB_USER=postgres\
-DB_PASSWORD=tu_password\
-DB_NAME=catalogo_videojuegos
+---
 
-------------------------------------------------------------------------
+## 📊 Funcionalidades Principales
 
-# 🚀 Ejecutar el ETL
+* Exploración de datos.
+* Procesamiento y limpieza de datasets.
+* Visualización interactiva de información.
+* Integración con base de datos.
+* Aplicación de algoritmos básicos de análisis de datos.
 
-python scripts/extractor_db.py
+---
 
-------------------------------------------------------------------------
+## 📚 Licencia
 
-# 📊 Ejecutar análisis
-
-python scripts/consultas.py
-
-Esto mostrará:
-
--   Top videojuegos por rating
--   Juegos con más votos
--   Videojuegos por año
-
-------------------------------------------------------------------------
-
-# 📌 Funcionalidades
-
-✔ Extracción de datos desde IGDB\
-✔ Transformación de datos\
-✔ Carga en PostgreSQL\
-✔ Consultas analíticas con Python
-
-------------------------------------------------------------------------
-
-# 👨‍💻 Autor
-Miguel Angel Rivera Lozano - Dayana Stephania 
-
-Proyecto desarrollado para aprendizaje de **ETL y análisis de datos con
-Python y PostgreSQL**.
+Este proyecto fue desarrollado con fines **académicos** para el curso de **Programación Avanzada**.
