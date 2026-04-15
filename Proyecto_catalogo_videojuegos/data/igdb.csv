@@ -1,0 +1,100 @@
+query,id,nombre,fecha_lanzamiento,rating,rating_count,generos,plataformas,cover_url,fecha_extraccion
+zelda,1022,The Legend of Zelda,509328000.0,80.3356123001489,705.0,Adventure,"Family Computer Disk System, Nintendo 3DS, Wii, Family Computer, Wii U, Nintendo Entertainment System",//images.igdb.com/igdb/image/upload/t_thumb/co1uii.jpg,2026-02-19T08:21:22.363358
+zelda,1025,Zelda II: The Adventure of Link,537580800.0,65.97119224765927,289.0,"Platform, Role-playing (RPG), Adventure","Family Computer Disk System, Nintendo 3DS, Wii, Wii U, Nintendo Entertainment System",//images.igdb.com/igdb/image/upload/t_thumb/co1uje.jpg,2026-02-19T08:21:22.363408
+zelda,1041,The Legend of Zelda: Oracle of Ages,983232000.0,84.26917663679875,164.0,"Puzzle, Role-playing (RPG), Adventure","Game Boy Color, Nintendo 3DS",//images.igdb.com/igdb/image/upload/t_thumb/co2tw1.jpg,2026-02-19T08:21:22.363427
+zelda,1032,The Legend of Zelda: Oracle of Seasons,983232000.0,81.30250861336407,189.0,"Puzzle, Role-playing (RPG), Adventure","Game Boy Color, Nintendo 3DS",//images.igdb.com/igdb/image/upload/t_thumb/co2tw0.jpg,2026-02-19T08:21:22.363442
+zelda,1026,The Legend of Zelda: A Link to the Past,690681600.0,92.3323591917436,1632.0,"Puzzle, Adventure","Satellaview, Super Nintendo Entertainment System, Wii, Wii U, New Nintendo 3DS, Super Famicom",//images.igdb.com/igdb/image/upload/t_thumb/co3vzn.jpg,2026-02-19T08:21:22.363458
+zelda,163217,The Legend of Zelda: Shénqí de Màozi,,,,"Role-playing (RPG), Adventure",Family Computer,//images.igdb.com/igdb/image/upload/t_thumb/co6ovg.jpg,2026-02-19T08:21:22.363471
+zelda,150080,"BS The Legend of Zelda ""MottZilla Patch""",1336262400.0,,,"Role-playing (RPG), Adventure",Super Nintendo Entertainment System,//images.igdb.com/igdb/image/upload/t_thumb/co3ip4.jpg,2026-02-19T08:21:22.363483
+zelda,45142,The Legend of Zelda: Ocarina of Time - Master Quest,1038441600.0,89.997068969293,31.0,"Puzzle, Adventure","Nintendo GameCube, 64DD",//images.igdb.com/igdb/image/upload/t_thumb/co5zdv.jpg,2026-02-19T08:21:22.363496
+zelda,237895,The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle,1512691200.0,,,"Role-playing (RPG), Adventure",Nintendo Switch,//images.igdb.com/igdb/image/upload/t_thumb/co67oa.jpg,2026-02-19T08:21:22.363509
+zelda,38319,BS Zelda no Densetsu,807667200.0,,,"Puzzle, Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co2uzv.jpg,2026-02-19T08:21:22.363521
+zelda,163216,Zelda Chuánshuō: Sān Shén Zhī lì,1104451200.0,,,"Role-playing (RPG), Adventure",Family Computer,//images.igdb.com/igdb/image/upload/t_thumb/co7t3i.jpg,2026-02-19T08:21:22.363533
+zelda,152362,Zelda,620092800.0,,,Adventure,Game & Watch,//images.igdb.com/igdb/image/upload/t_thumb/co4toa.jpg,2026-02-19T08:21:22.363544
+zelda,1029,The Legend of Zelda: Ocarina of Time,911606400.0,91.58500360850164,2036.0,"Puzzle, Adventure","Wii, Nintendo 64, 64DD, Wii U",//images.igdb.com/igdb/image/upload/t_thumb/co3nnx.jpg,2026-02-19T08:21:22.363557
+zelda,199421,Unreal Engine The Legend of Zelda: Ocarina of Time,,,,Adventure,PC (Microsoft Windows),//images.igdb.com/igdb/image/upload/t_thumb/co6fxc.jpg,2026-02-19T08:21:22.363569
+zelda,77336,The Legend of Zelda: A Link to the Past & Four Swords,1038787200.0,82.2290335141441,31.0,"Puzzle, Adventure",Game Boy Advance,//images.igdb.com/igdb/image/upload/t_thumb/co3nsh.jpg,2026-02-19T08:21:22.363580
+zelda,116419,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,1560384000.0,74.54379127825219,50.0,"Music, Adventure",Nintendo Switch,//images.igdb.com/igdb/image/upload/t_thumb/co1qgt.jpg,2026-02-19T08:21:22.363593
+zelda,286619,Zelda 64 1997,,,,Adventure,Nintendo 64,//images.igdb.com/igdb/image/upload/t_thumb/co8tbt.jpg,2026-02-19T08:21:22.363605
+zelda,268684,The Legend of Zelda: Zelda's Eternal Youth,,,,Adventure,Nintendo 64,//images.igdb.com/igdb/image/upload/t_thumb/co790s.jpg,2026-02-19T08:21:22.363616
+zelda,176087,The Legend of Zelda: Ocarina of Time + The Legend of Zelda: Ocarina of Time - Master Quest: Two-game Bonus Disc!,1038441600.0,,,"Puzzle, Adventure",Nintendo GameCube,//images.igdb.com/igdb/image/upload/t_thumb/co5vvd.jpg,2026-02-19T08:21:22.363644
+zelda,8533,Zelda: The Wand of Gamelon,750211200.0,39.90835595290698,11.0,"Puzzle, Adventure",Philips CD-i,//images.igdb.com/igdb/image/upload/t_thumb/co60tx.jpg,2026-02-19T08:21:22.363656
+zelda,134500,BS Zelda no Densetsu Map 2,820281600.0,,,"Role-playing (RPG), Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co2uzw.jpg,2026-02-19T08:21:22.363668
+zelda,298870,Zelda no Densetsu: 4-tsu no Tsurugi +,1079568000.0,,,"Fighting, Adventure, Arcade",Nintendo GameCube,//images.igdb.com/igdb/image/upload/t_thumb/co85lk.jpg,2026-02-19T08:21:22.363680
+zelda,178049,BS Zelda no Densetsu: Dai-1-wa,807667200.0,,,Adventure,Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40qr.jpg,2026-02-19T08:21:22.363691
+zelda,178050,BS Zelda no Densetsu: Dai-2-wa,808272000.0,,,Adventure,Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40qs.jpg,2026-02-19T08:21:22.363702
+zelda,178051,BS Zelda no Densetsu: Dai-3-wa,808876800.0,,,Adventure,Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co414f.jpg,2026-02-19T08:21:22.363713
+zelda,178053,BS Zelda no Densetsu: Dai-4-wa,809481600.0,,,Adventure,Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40qx.jpg,2026-02-19T08:21:22.363725
+zelda,149979,The Legend of Zelda: Second Wind,1587600000.0,85.52591986267905,7.0,Role-playing (RPG),"Wii U, Nintendo Switch",//images.igdb.com/igdb/image/upload/t_thumb/co31di.jpg,2026-02-19T08:21:22.363737
+zelda,172501,The Legend of Zelda Game Watch,623548800.0,,,"Adventure, Arcade",Handheld Electronic LCD,//images.igdb.com/igdb/image/upload/t_thumb/co4al9.jpg,2026-02-19T08:21:22.363749
+zelda,1035,The Legend of Zelda: The Minish Cap,1099526400.0,84.44389123649755,418.0,"Puzzle, Adventure","Nintendo 3DS, Wii U, Game Boy Advance",//images.igdb.com/igdb/image/upload/t_thumb/co3nsk.jpg,2026-02-19T08:21:22.363762
+zelda,1030,The Legend of Zelda: Majora's Mask,956793600.0,86.8677504252648,839.0,"Puzzle, Adventure","Wii, Nintendo 64, 64DD, Wii U",//images.igdb.com/igdb/image/upload/t_thumb/co3pah.jpg,2026-02-19T08:21:22.363775
+zelda,163572,The Legend of Zelda: Four Swords,1038787200.0,70.10293670625884,23.0,"Puzzle, Adventure",Game Boy Advance,//images.igdb.com/igdb/image/upload/t_thumb/co5w9w.jpg,2026-02-19T08:21:22.363786
+zelda,262254,The Legend of Zelda: Trident of Power,1593129600.0,,,"Role-playing (RPG), Adventure","Linux, Android, PC (Microsoft Windows)",//images.igdb.com/igdb/image/upload/t_thumb/co6yl0.jpg,2026-02-19T08:21:22.363799
+zelda,178056,BS Zelda no Densetsu Map 2: Dai-2-wa,820454400.0,,,"Role-playing (RPG), Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40r0.jpg,2026-02-19T08:21:22.363810
+zelda,178058,BS Zelda no Densetsu Map 2: Dai-3-wa,820627200.0,,,"Role-playing (RPG), Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40r2.jpg,2026-02-19T08:21:22.363822
+zelda,178059,BS Zelda no Densetsu Map 2: Dai-4-wa,820800000.0,,,"Role-playing (RPG), Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40r3.jpg,2026-02-19T08:21:22.363833
+zelda,178054,BS Zelda no Densetsu Map 2: Dai-1-wa,820281600.0,,,"Role-playing (RPG), Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40rq.jpg,2026-02-19T08:21:22.363844
+zelda,275308,The Legend of Zelda: Goddess of Wisdom,1494892800.0,,,"Puzzle, Adventure",Super Nintendo Entertainment System,//images.igdb.com/igdb/image/upload/t_thumb/co7bqv.jpg,2026-02-19T08:21:22.363855
+zelda,115284,The Legend of Zelda: Link's Awakening,1568937600.0,82.52005032650439,287.0,"Puzzle, Adventure","Nintendo Switch 2, Nintendo Switch",//images.igdb.com/igdb/image/upload/t_thumb/co1qve.jpg,2026-02-19T08:21:22.363873
+zelda,134014,The Legend of Zelda: Twilight Princess,1163894400.0,79.61901670127504,91.0,"Puzzle, Adventure",Wii,//images.igdb.com/igdb/image/upload/t_thumb/co3w1h.jpg,2026-02-19T08:21:22.363885
+zelda,1036,The Legend of Zelda: Twilight Princess,1165017600.0,85.5219008239788,682.0,"Puzzle, Adventure",Nintendo GameCube,//images.igdb.com/igdb/image/upload/t_thumb/co3mtv.jpg,2026-02-19T08:21:22.363897
+zelda,42308,BS Zelda no Densetsu: Inishie no Sekiban,859680000.0,,,"Puzzle, Adventure",Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co2v04.jpg,2026-02-19T08:21:22.363908
+zelda,18066,Classic NES Series: The Legend of Zelda,1076716800.0,74.52049343414247,7.0,Adventure,Game Boy Advance,//images.igdb.com/igdb/image/upload/t_thumb/co5wst.jpg,2026-02-19T08:21:22.363920
+zelda,1037,The Legend of Zelda: Phantom Hourglass,1182556800.0,76.59010683188416,271.0,"Puzzle, Adventure","Wii U, Nintendo DS",//images.igdb.com/igdb/image/upload/t_thumb/co3ocu.jpg,2026-02-19T08:21:22.363939
+zelda,1027,The Legend of Zelda: Link's Awakening DX,913420800.0,88.54480672938747,187.0,"Puzzle, Adventure","Game Boy Color, Nintendo 3DS",//images.igdb.com/igdb/image/upload/t_thumb/co4o47.jpg,2026-02-19T08:21:22.363961
+zelda,2909,The Legend of Zelda: A Link Between Worlds,1385078400.0,87.3269352348525,687.0,"Puzzle, Adventure",Nintendo 3DS,//images.igdb.com/igdb/image/upload/t_thumb/co3p0j.jpg,2026-02-19T08:21:22.363983
+zelda,241862,Zelda II: The Adventure of Link Randomizer,1455321600.0,,,"Role-playing (RPG), Adventure",Nintendo Entertainment System,//images.igdb.com/igdb/image/upload/t_thumb/co69k8.jpg,2026-02-19T08:21:22.364001
+zelda,282369,Zelda Mini,,,,Simulator,Pokémon mini,//images.igdb.com/igdb/image/upload/t_thumb/co7ph6.jpg,2026-02-19T08:21:22.364013
+zelda,210652,The Legend of Zelda: Breath of the Wild Multiplayer,1659052800.0,,,"Role-playing (RPG), Adventure",Wii U,//images.igdb.com/igdb/image/upload/t_thumb/co5w9j.jpg,2026-02-19T08:21:22.364025
+zelda,178061,BS Zelda no Densetsu: Inishie no Sekiban - Dai-1-wa,859680000.0,,,Adventure,Satellaview,//images.igdb.com/igdb/image/upload/t_thumb/co40r6.jpg,2026-02-19T08:21:22.364036
+mario,338616,Mario Kart Tour: Mario Bros. Tour,1582675200.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mlw.jpg,2026-02-19T08:21:23.165375
+mario,2707,Mario & Sonic at the Olympic Winter Games,1255392000.0,68.87515516596031,32.0,Sport,Wii,//images.igdb.com/igdb/image/upload/t_thumb/co1wvr.jpg,2026-02-19T08:21:23.165416
+mario,84920,Super Mario All-Stars: Limited Edition,1287619200.0,75.0,3.0,"Platform, Arcade",Wii,//images.igdb.com/igdb/image/upload/t_thumb/co2vvc.jpg,2026-02-19T08:21:23.165431
+mario,132109,Mario & Sonic at the Olympic Winter Games,1255392000.0,79.81660336080003,9.0,Sport,Nintendo DS,//images.igdb.com/igdb/image/upload/t_thumb/co22wg.jpg,2026-02-19T08:21:23.165444
+mario,116795,Mario & Sonic at the Olympic Games Tokyo 2020,1572566400.0,72.02207351506632,16.0,Sport,Nintendo Switch,//images.igdb.com/igdb/image/upload/t_thumb/co22wl.jpg,2026-02-19T08:21:23.165456
+mario,241003,Super Mario Advance 4: Super Mario Bros. 3-e - Para Beetle Challenge,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.165470
+mario,338478,Mario Kart Tour: Holiday Tour,1576627200.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mj5.jpg,2026-02-19T08:21:23.165484
+mario,338620,Mario Kart Tour: Hammer Bro Tour,1585094400.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/coabfj.jpg,2026-02-19T08:21:23.165497
+mario,338619,Mario Kart Tour: Baby Rosalina Tour,1583798400.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/coabbh.jpg,2026-02-19T08:21:23.165510
+mario,172201,Mario Bros.,431913600.0,54.21738703586784,43.0,"Platform, Arcade","Arcade, Nintendo 3DS, Wii, Family Computer, Wii U, Nintendo Entertainment System",//images.igdb.com/igdb/image/upload/t_thumb/co42ph.jpg,2026-02-19T08:21:23.165526
+mario,132110,Mario & Sonic at the London 2012 Olympic Games,1328745600.0,58.74200426439232,5.0,Sport,Nintendo 3DS,//images.igdb.com/igdb/image/upload/t_thumb/co22wi.jpg,2026-02-19T08:21:23.165539
+mario,2708,Mario & Sonic at the London 2012 Olympic Games,1321315200.0,67.08164295828091,32.0,Sport,Wii,//images.igdb.com/igdb/image/upload/t_thumb/co1zye.jpg,2026-02-19T08:21:23.165550
+mario,3990,Mario & Sonic at the Sochi 2014 Olympic Winter Games,1383868800.0,65.02169505270678,13.0,Sport,Wii U,//images.igdb.com/igdb/image/upload/t_thumb/co1ww7.jpg,2026-02-19T08:21:23.165561
+mario,222095,Super Mario Bros.,742608000.0,90.51356569289929,81.0,Platform,"Super Nintendo Entertainment System, Super Famicom",//images.igdb.com/igdb/image/upload/t_thumb/co5k7b.jpg,2026-02-19T08:21:23.165574
+mario,132654,Kaizo Mario World,1199059200.0,,,Platform,Super Nintendo Entertainment System,//images.igdb.com/igdb/image/upload/t_thumb/co2mqu.jpg,2026-02-19T08:21:23.165585
+mario,338473,Mario Kart Tour: Tokyo Tour,1570579200.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mjd.jpg,2026-02-19T08:21:23.165597
+mario,338475,Mario Kart Tour: Paris Tour,1572998400.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mj7.jpg,2026-02-19T08:21:23.165608
+mario,1078,Super Mario Galaxy 2,1274572800.0,89.22916101675087,885.0,"Platform, Adventure","Wii, Wii U",//images.igdb.com/igdb/image/upload/t_thumb/co21tl.jpg,2026-02-19T08:21:23.165621
+mario,11195,Mario & Luigi: Paper Jam,1449100800.0,64.96722039114783,23.0,"Role-playing (RPG), Adventure",Nintendo 3DS,//images.igdb.com/igdb/image/upload/t_thumb/co4ahr.jpg,2026-02-19T08:21:23.165633
+mario,338477,Mario Kart Tour: London Tour,1575417600.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mj9.jpg,2026-02-19T08:21:23.165645
+mario,338476,Mario Kart Tour: Winter Tour,1574208000.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mj8.jpg,2026-02-19T08:21:23.165657
+mario,254339,Super Mario Bros. Wonder,1697760000.0,87.42733208250966,196.0,Platform,Nintendo Switch,//images.igdb.com/igdb/image/upload/t_thumb/co6nnl.jpg,2026-02-19T08:21:23.165668
+mario,338472,Mario Kart Tour: New York Tour,1569369600.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mje.jpg,2026-02-19T08:21:23.165679
+mario,338474,Mario Kart Tour: Halloween Tour,1571788800.0,,,Racing,"Android, iOS",//images.igdb.com/igdb/image/upload/t_thumb/co9mj6.jpg,2026-02-19T08:21:23.165691
+mario,212845,NSMB: Mario vs. Luigi Online,1751846400.0,,,"Platform, Arcade","Web browser, Linux, PC (Microsoft Windows), Mac",//images.igdb.com/igdb/image/upload/t_thumb/co6td1.jpg,2026-02-19T08:21:23.165704
+mario,3364,Mario & Luigi: Partners in Time,1133136000.0,79.47400018479651,121.0,"Puzzle, Role-playing (RPG), Adventure","Wii U, Nintendo DS",//images.igdb.com/igdb/image/upload/t_thumb/coba41.jpg,2026-02-19T08:21:23.165718
+mario,132108,Mario & Sonic at the Olympic Games,1200528000.0,63.76172846197771,16.0,Sport,Nintendo DS,//images.igdb.com/igdb/image/upload/t_thumb/co22wf.jpg,2026-02-19T08:21:23.165811
+mario,2706,Mario & Sonic at the Olympic Games,1194307200.0,63.75604549638616,63.0,Sport,Wii,//images.igdb.com/igdb/image/upload/t_thumb/co1wvp.jpg,2026-02-19T08:21:23.165840
+mario,3349,Paper Mario: The Thousand-Year Door,1090454400.0,92.17314870094046,521.0,"Role-playing (RPG), Adventure",Nintendo GameCube,//images.igdb.com/igdb/image/upload/t_thumb/co25us.jpg,2026-02-19T08:21:23.165853
+mario,132111,Mario & Sonic at the Rio 2016 Olympic Games,1455753600.0,,,Sport,Nintendo 3DS,//images.igdb.com/igdb/image/upload/t_thumb/co22wj.jpg,2026-02-19T08:21:23.165865
+mario,11258,Mario & Sonic at the Rio 2016 Olympic Games,1466640000.0,64.03663311259335,13.0,Sport,Wii U,//images.igdb.com/igdb/image/upload/t_thumb/co20e7.jpg,2026-02-19T08:21:23.165876
+mario,37151,Mario & Luigi: Superstar Saga + Bowser's Minions,1507161600.0,77.0568887130697,18.0,"Platform, Role-playing (RPG), Adventure",Nintendo 3DS,//images.igdb.com/igdb/image/upload/t_thumb/co22a7.jpg,2026-02-19T08:21:23.165888
+mario,132862,Brutal Mario,1230681600.0,,,Platform,Super Nintendo Entertainment System,//images.igdb.com/igdb/image/upload/t_thumb/co5toc.jpg,2026-02-19T08:21:23.165899
+mario,2342,Mario Kart 64,850521600.0,82.33888534831951,586.0,"Racing, Arcade","Wii, Nintendo 64, Wii U",//images.igdb.com/igdb/image/upload/t_thumb/co67hm.jpg,2026-02-19T08:21:23.165913
+mario,16617,Super Mario World: Super Mario Advance 2,1008288000.0,87.93160641752141,73.0,"Platform, Adventure","Wii U, Game Boy Advance",//images.igdb.com/igdb/image/upload/t_thumb/co6nhk.jpg,2026-02-19T08:21:23.165926
+mario,170021,Super Mario Advance 4: Super Mario Bros. 3,1451347200.0,,,"Platform, Adventure",Wii U,//images.igdb.com/igdb/image/upload/t_thumb/co3tpt.jpg,2026-02-19T08:21:23.165938
+mario,3988,Mario Hoops 3-on-3,1153958400.0,62.92273295613064,33.0,Sport,"Wii U, Nintendo DS",//images.igdb.com/igdb/image/upload/t_thumb/co2206.jpg,2026-02-19T08:21:23.165950
+mario,230281,Super Mario World: Mario to Yoshi no Bouken Land,694137600.0,,,Quiz/Trivia,Terebikko / See 'n Say Video Phone,//images.igdb.com/igdb/image/upload/t_thumb/co826d.jpg,2026-02-19T08:21:23.165960
+mario,241011,Super Mario Advance 4: Super Mario Bros. 3-e - Slip Slidin' Away,1104451200.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/cob5g4.jpg,2026-02-19T08:21:23.166211
+mario,241004,Super Mario Advance 4: Super Mario Bros. 3-e - A Musical Trek,1104451200.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/cob5fy.jpg,2026-02-19T08:21:23.166248
+mario,241005,Super Mario Advance 4: Super Mario Bros. 3-e - Armored Airship,1104451200.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/cob5fz.jpg,2026-02-19T08:21:23.166272
+mario,240997,Super Mario Advance 4: Super Mario Bros. 3-e - Doors o' Plenty,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166295
+mario,240995,Super Mario Advance 4: Super Mario Bros. 3-e - Slidin' the Slopes,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166320
+mario,240996,Super Mario Advance 4: Super Mario Bros. 3-e - Vegetable Volley,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166343
+mario,241025,Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge,1072828800.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/co68uc.jpg,2026-02-19T08:21:23.166368
+mario,240999,Super Mario Advance 4: Super Mario Bros. 3-e - Magical Note Blocks,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166402
+mario,240998,Super Mario Advance 4: Super Mario Bros. 3-e - Bombarded by Bob-ombs,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166428
+mario,241026,Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle,1072828800.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/co826k.jpg,2026-02-19T08:21:23.166441
+mario,241002,Super Mario Advance 4: Super Mario Bros. 3-e - Swinging Bars of Doom,1072828800.0,,,Platform,e-Reader / Card-e Reader,,2026-02-19T08:21:23.166452
+mario,240994,Super Mario Advance 4: Super Mario Bros. 3-e - Wild Ride in the Sky,1072828800.0,,,Platform,e-Reader / Card-e Reader,//images.igdb.com/igdb/image/upload/t_thumb/co81o7.jpg,2026-02-19T08:21:23.166464
