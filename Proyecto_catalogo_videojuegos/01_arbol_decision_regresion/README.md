@@ -1,23 +1,34 @@
 # Árbol de decisión para regresión
 
-En esta carpeta se encuentra el notebook final del modelo de árbol de decisión para regresión aplicado al proyecto de videojuegos.
+En esta carpeta se encuentra el notebook del modelo de **árbol de decisión para regresión** aplicado al proyecto de videojuegos.
 
 ## Contexto del proyecto
 Durante el desarrollo del proyecto se trabajó en dos etapas:
 
 1. **Etapa exploratoria con datos sintéticos**  
-   Se construyó un caso de estudio de regresión con variables sintéticas para validar relaciones, métricas y comportamiento de los modelos.
+   Se construyó un caso de estudio inicial para validar relaciones entre variables, métricas de regresión y comportamiento del modelo.
 
 2. **Etapa final con datos reales**  
-   Posteriormente, el proyecto se ajustó para trabajar con datos reales de videojuegos cargados en PostgreSQL, con el fin de aplicar el modelo sobre información real del dominio.
+   Posteriormente, el proyecto se ajustó para trabajar con datos reales de videojuegos cargados en PostgreSQL.
+
+## Contenido del notebook
+El notebook de esta carpeta presenta el mismo modelo en dos escenarios:
+
+- **Parte A: datos sintéticos**
+- **Parte B: datos reales**
+
+Ambas partes corresponden al modelo de **árbol de decisión para regresión**.
 
 ## Objetivo
-Predecir la variable `rating` a partir de variables reales derivadas de los datos de videojuegos.
+Predecir la variable `rating` a partir de variables asociadas a los videojuegos.
 
-## Fuente de datos
-En este notebook se trabajó con **datos reales** cargados desde PostgreSQL en la tabla `juegos_csv`, construida a partir del archivo `data/igdb.csv`.
+## Datos sintéticos
+En la fase exploratoria se usaron variables sintéticas para validar la lógica del modelo y analizar su desempeño en un entorno controlado.
 
-## Variables usadas
+## Datos reales
+En la fase final se trabajó con **datos reales** cargados desde PostgreSQL en la tabla `juegos_csv`, construida a partir del archivo `data/igdb.csv`.
+
+## Variables usadas en datos reales
 - `release_year`
 - `rating_count`
 - `genre_count`
@@ -33,8 +44,5 @@ En este notebook se trabajó con **datos reales** cargados desde PostgreSQL en l
 - RMSE
 - MAE
 
-## Resultado
-El árbol permitió identificar qué variables explican mejor el rating, destacándose especialmente `rating_count`.
-
-## Nota
-Los notebooks con datos sintéticos se conservan en la carpeta `notebooks/` como parte del proceso de desarrollo y validación inicial del proyecto.
+## Resultado esperado
+El notebook permite comparar el comportamiento del árbol de regresión en datos sintéticos y en datos reales, destacando las diferencias entre un entorno controlado y un escenario aplicado.
